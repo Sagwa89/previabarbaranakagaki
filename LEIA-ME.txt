@@ -1,0 +1,26 @@
+LANDING PAGE | BÁRBARA NAKAGAKI
+
+Para publicar pelo GitHub Pages, envie todos os arquivos desta pasta para a raiz do repositório. Ative Pages nas configurações do repositório para publicar.
+
+IMAGENS INTEGRADAS
+
+As fotos enviadas já estão na pasta assets. Incluí o retrato, a imagem do atendimento e dois comparativos de antes e depois. A imagem ilustrativa da sala complementa as fotos reais sem se passar pelo consultório da Bárbara. Também incluí uma versão em rosa claro do monograma BN para combinar com a página.
+
+ANTES DE PUBLICAR
+
+1. Abra dados.js e informe o WhatsApp no formato 55 + DDD + número, somente dígitos. Exemplo de formato: 5546999999999.
+2. Informe o perfil do Instagram em dados.js, com ou sem @.
+3. Se quiser trocar as fotos, substitua os arquivos abaixo na pasta assets, mantendo os mesmos nomes:
+
+   barbara-nakagaki.jpg
+   procedimento.png
+   clinica-ilustrativa.png
+   tratamentos-mosaico.png
+   resultado-toxina.png
+   resultado-harmonizacao.png
+
+4. Confirme o endereço completo e o horário antes de incluí-los. O mapa aponta para Bom Sucesso do Sul, PR.
+
+Os comparativos podem ser ampliados ao tocar ou clicar. Resultados variam conforme avaliação individual.
+
+O site usa HTML, CSS e JavaScript sem dependências de instalação. O Google Fonts fornece a fonte Manrope. Se essa conexão não estiver disponível, o site usa uma fonte sem serifa do sistema.
