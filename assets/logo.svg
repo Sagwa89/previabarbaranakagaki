@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+  <title id="title">Monograma Bárbara Nakagaki</title>
+  <circle cx="40" cy="40" r="37" fill="#141414"/>
+  <path d="M14 19h12c7 0 11 4 11 10 0 4-2 7-6 8 5 1 8 4 8 10 0 7-5 11-14 11H14V19Zm8 7v8h5c3 0 4-1 4-4 0-2-1-4-4-4h-5Zm0 15v10h6c3 0 5-2 5-5s-2-5-5-5h-6Z" fill="#edccd1"/>
+  <path d="M40 58V22h5l14 25V22h7v36h-5L47 33v25h-7Z" fill="#edccd1"/>
+</svg>
